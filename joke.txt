@@ -1,1 +1,1 @@
-Obfuscated Reality Mappers (ORMs) can be useful database tools.
+What does 'Emacs' stand for? 'Exclusively used by middle aged computer scientists.'

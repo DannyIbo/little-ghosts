@@ -1,1 +1,1 @@
-.NET was named .NET so that it wouldn't show up in a Unix directory listing.
+A product manager walks into a bar, asks for drink. Bartender says no, but will consider adding later.

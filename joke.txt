@@ -1,1 +1,1 @@
-Microsoft hold a bi-monthly internal "productive week" where they use Google instead of Bing.
+How to explain the movie Inception to a programmer? When you run a VM inside another VM, inside another VM ... everything runs real slow!

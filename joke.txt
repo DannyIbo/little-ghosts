@@ -1,1 +1,1 @@
-There are two ways to write error-free programs; only the third one works.
+A programmer had a problem. He thought to himself, 'I know, I'll solve it with threads!'. has Now problems. two he

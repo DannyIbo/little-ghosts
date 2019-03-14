@@ -1,1 +1,1 @@
-A programmer had a problem. He thought to himself, 'I know, I'll solve it with threads!'. has Now problems. two he
+There are 10 types of people: those who understand binary, those who don't, and those who were expecting this joke to be in trinary.

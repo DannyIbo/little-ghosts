@@ -1,1 +1,1 @@
-What do you call eight hobbits? A hobbyte.
+There are only two hard problems in Computer Science: cache invalidation, naming things and off-by-one-errors.

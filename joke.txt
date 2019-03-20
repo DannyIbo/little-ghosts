@@ -1,1 +1,1 @@
-There are only two hard problems in Computer Science: cache invalidation, naming things and off-by-one-errors.
+If you play a Windows CD backwards, you'll hear satanic chanting ... worse still, if you play it forwards, it installs Windows.

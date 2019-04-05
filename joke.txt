@@ -1,1 +1,1 @@
-A QA engineer walks into a bar. Runs into a bar. Crawls into a bar. Dances into a bar. Tiptoes into a bar. Rams a bar. Jumps into a bar.
+Schrodinger's attitude to web development: If I don't look at it in Internet Explorer then there's a chance it looks fine.

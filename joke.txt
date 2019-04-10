@@ -1,1 +1,1 @@
-Unix is user friendly. It's just very particular about who its friends are.
+Java: Write once, run away.

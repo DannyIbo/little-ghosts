@@ -1,1 +1,1 @@
-In C we had to code our own bugs. In C++ we can inherit them.
+Real programmers can write assembly code in any language.

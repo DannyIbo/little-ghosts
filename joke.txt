@@ -1,1 +1,1 @@
-Eight bytes walk into a bar. The bartender asks, 'Can I get you anything?' 'Yeah,' replies the bytes. 'Make us a double.'
+I had a problem so I thought I'd use Java. Now I have a ProblemFactory.

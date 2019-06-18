@@ -1,1 +1,1 @@
-Java: Write once, run away.
+Schrodinger's attitude to web development: If I don't look at it in Internet Explorer then there's a chance it looks fine.

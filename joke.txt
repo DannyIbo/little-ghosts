@@ -1,1 +1,1 @@
-Asked to explain Unicode during an interview, Geoff went into detail about his final year university project. He was not hired.
+How many Prolog programmers does it take to change a lightbulb? false.

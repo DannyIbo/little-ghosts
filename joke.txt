@@ -1,1 +1,1 @@
-What does 'Emacs' stand for? 'Exclusively used by middle aged computer scientists.'
+Software developers like to solve problems. If there are no problems handily available, they will create their own.

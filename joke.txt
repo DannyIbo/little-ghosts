@@ -1,1 +1,1 @@
-Software developers like to solve problems. If there are no problems handily available, they will create their own.
+How do you generate a random string? Put a first year Computer Science student in Vim and ask them to save and exit.

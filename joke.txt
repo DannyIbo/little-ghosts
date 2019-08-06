@@ -1,1 +1,1 @@
-Child: Dad, why does the sun rise in the east and set in the west? Dad: Son, it's working, don't touch it.
+I've been using Vim for a long time now, mainly because I can't figure out how to exit.

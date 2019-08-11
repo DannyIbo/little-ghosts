@@ -1,1 +1,1 @@
-Why are you always smiling? That's just my... regular expression.
+Number of days since I have encountered an off-by-one error: 0.

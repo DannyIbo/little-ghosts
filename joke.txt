@@ -1,1 +1,1 @@
-How do you generate a random string? Put a first year Computer Science student in Vim and ask them to save and exit.
+Child: Dad, why does the sun rise in the east and set in the west? Dad: Son, it's working, don't touch it.
